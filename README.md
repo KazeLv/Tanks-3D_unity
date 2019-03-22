@@ -8,7 +8,7 @@
 | P1 | AWSD | space |
 | P2 | ←↑↓→ | right ctrl |
 
-##游戏截图
+## 游戏截图
 ![start menu][menu]
 ![screenshot1][screenshot1]
 ![screenshot2][screenshot2]
