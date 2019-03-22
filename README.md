@@ -1,11 +1,11 @@
 # Tanks-3D_unity
 
 3D坦克大战，两玩家控制两个坦克在沙漠场景中对战，经典简单。
-##操作方式：
-玩家|移动|攻击
--|-|-
-P1|AWSD|space
-P2|←↑↓→|right ctrl
+## 操作方式：
+玩家 | 移动 | 攻击
+- | - | -
+P1 | AWSD | space
+P2 | ←↑↓→ | right ctrl
 
 ##游戏截图
 ![start menu][menu]
